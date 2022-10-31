@@ -8,8 +8,3 @@
 	url = https://github.com/ankane/dbx
 	shallow = true
 	registered = true
-[submodule "jetpack"]
-	path = jetpack
-	url = https://github.com/ankane/jetpack
-	shallow = true
-	registered = true
