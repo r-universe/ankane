@@ -6,5 +6,9 @@
   {
     "package": "jetpack",
     "oncran": true
+  },
+  {
+    "package": "rollbar",
+    "oncran": true
   }
 ]

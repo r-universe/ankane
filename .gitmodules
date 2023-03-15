@@ -13,3 +13,8 @@
 	url = https://github.com/ankane/jetpack
 	shallow = true
 	registered = true
+[submodule "rollbar"]
+	path = rollbar
+	url = https://github.com/ankane/rollbar-r
+	shallow = true
+	registered = true
