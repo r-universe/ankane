@@ -1,10 +1,10 @@
 [
   {
-    "package": "jetpack",
+    "package": "dbx",
     "oncran": true
   },
   {
-    "package": "dbx",
+    "package": "jetpack",
     "oncran": true
   }
 ]
